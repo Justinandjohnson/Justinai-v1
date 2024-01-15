@@ -1,5 +1,6 @@
 ReadMe: Text Assistant Chrome Extension 🌟
 Introduction 🚀
+
 Welcome to the Text Assistant Chrome Extension! This extension is your go-to tool for interacting with text on any web page. It provides functionalities like text-to-speech, summarization, and even an assistant search feature powered by OpenAI's cutting-edge technology. 🤖📚
 
 Features 🌈
@@ -9,9 +10,9 @@ summaries of highlighted text, perfect for digesting large chunks of information
 
 Assistant Search: Use OpenAI's powerful AI to search the internet based on your selected text. 🌐🔍
 Sleek Design: Easy-to-use interface with intuitive controls. 🎨
+
 Installation 🛠️
 Download the Extension:
-
 Download the ZIP file for the Text Assistant Chrome Extension.
 Extract the ZIP file to a folder on your computer.
 Load the Extension in Chrome:
@@ -38,14 +39,19 @@ Click "Summarize" to generate a concise summary of the selected text. The summar
 Assistant Search:
 
 Click "Assistant Search" to use OpenAI's Assistant to search the internet based on the highlighted text. The search results will be displayed in a popup overlay.
-Support and Feedback 🙌
-Feedback: If you have suggestions or feedback, please feel free to reach out.
-Issues: For any issues or bugs, please report them for prompt attention.
+
+Feedback 🙌 
+If you have suggestions or feedback, please feel free to reach out.
+
 Contribute 🤝
 Contributions Welcome: If you're interested in contributing, feel free to fork the repository and submit pull requests.
 License 📜
+
 The Text Assistant Chrome Extension is open-source software licensed under MIT.
 Final Thoughts 💭
-Enjoy the power of AI at your fingertips and transform the way you interact with text online. Happy browsing! 🌍📖
+
+Enjoy the power of AI at your fingertips and transform the way you interact with text online.
+
+Happy browsing! 🌍📖
 Contact 📬
-Developer Contact: If you need to reach out to the developer, please contact justiandjohnson@gmail.com.
+If you need to reach out to the developer, please contact justiandjohnson@gmail.com.
