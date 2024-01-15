@@ -1,11 +1,17 @@
 ReadMe: Text Assistant Chrome Extension 🌟
+
 Introduction 🚀
 
-Welcome to the Text Assistant Chrome Extension! This extension is your go-to tool for interacting with text on any web page. It provides functionalities like text-to-speech, summarization, and even an assistant search feature powered by OpenAI's cutting-edge technology. 🤖📚
+Welcome to the Text Assistant Chrome Extension! This extension is your go-to tool for interacting with text on any web page. 
+
+It provides functionalities like text-to-speech, summarization, and even an assistant search feature powered by OpenAI's cutting-edge technology. 🤖📚
 
 Features 🌈
+
 Text-to-Speech: Hear any selected text read aloud with a simple click. 📢
+
 Summarization: Get quick
+
 summaries of highlighted text, perfect for digesting large chunks of information. 📄
 
 Assistant Search: Use OpenAI's powerful AI to search the internet based on your selected text. 🌐🔍
@@ -23,6 +29,7 @@ mode" by toggling the switch in the top-right corner.
 
 Click on "Load unpacked" and select the folder where you extracted the ZIP file.
 The extension icon should now appear in your Chrome toolbar. 🎉
+
 Usage Guide 📚
 Activating Features:
 
@@ -32,6 +39,7 @@ Click on your desired action. The corresponding feature will be activated for th
 Text-to-Speech:
 
 Click "Say It" to hear the selected text read aloud. 🗣️
+
 Use "Stop Speech" to halt the text-to-speech playback.
 Summarization:
 
