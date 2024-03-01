@@ -3,7 +3,7 @@
 function googleTextToSpeech(text, callback) {
     // Google Text-to-Speech API integration
     // Replace 'YOUR_GOOGLE_API_KEY' with your actual API key
-    const apiKey = 'AIzaSyCsP96Gu6TOaLkHcHmEiQDmgNOvfer0hgc';
+    const apiKey = 'AIzaSyCsP96Gu6TOaLkHcHmEiQDmgNOvfer0hgc'; #don't worry, this key is disabled so
     const url = `https://texttospeech.googleapis.com/v1/text:synthesize?key=${apiKey}`;
     const data = {
         input: { text: text },
